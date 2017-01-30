@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "854F5F7CA49EFB8A0B354DA1BF7F7A08FE653682",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "81586CFD5071719E6A04E415418B6D2F9BA00D51" : 9223372036854775807,
+    "854F5F7CA49EFB8A0B354DA1BF7F7A08FE653682" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7A797054-9013-45AB-A1EB-76C60BB58E4E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "81586CFD5071719E6A04E415418B6D2F9BA00D51" : "",
+    "854F5F7CA49EFB8A0B354DA1BF7F7A08FE653682" : "TokenInputView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CLTokenInputView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CLTokenInputView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Parkarr15\/parkarr.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "81586CFD5071719E6A04E415418B6D2F9BA00D51"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dgray302\/CLTokenInputView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "854F5F7CA49EFB8A0B354DA1BF7F7A08FE653682"
+    }
+  ]
+}
